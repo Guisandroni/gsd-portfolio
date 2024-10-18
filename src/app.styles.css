@@ -1,0 +1,15 @@
+body{
+    background-color:#FFB703;
+   
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+
